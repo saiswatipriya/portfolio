@@ -54,5 +54,5 @@ swati-portfolio/
 │   │
 │   └── icons/
 ├── docs/
-│   └── swati-portfolio-ui-ux.pdf
+│   └── my-portfolio-ui.pdf
 └── README.md
