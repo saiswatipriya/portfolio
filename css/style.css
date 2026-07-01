@@ -283,6 +283,41 @@ footer img {
     transform: translateX(-50%);
 }
 
+/* CASE STUDY PAGE STYLING */
+.case-study-wrapper {
+    padding-top: 40px;
+}
+.case-study-header {
+    border: 1px solid #D9D9D9;
+    padding: 40px;
+    margin-bottom: 24px;
+}
+.back-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+    color: #A35495;
+    margin-bottom: 16px;
+}
+.project-title {
+    margin-bottom: 16px;
+}
+.case-study-content {
+    border: 1px solid #D9D9D9;
+    padding: 40px;
+    margin-bottom: 24px;
+}
+.case-study-content h3 {
+    margin: 24px 0 16px;
+}
+.case-study-content p, .case-study-content ol {
+    line-height: 1.7;
+    margin-bottom: 16px;
+}
+.case-study-content ol {
+    padding-left: 20px;
+}
 
 /* =========================
    RESPONSIVE DESIGN
